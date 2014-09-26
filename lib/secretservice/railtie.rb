@@ -1,4 +1,4 @@
-module Subrosa
+module SecretService
   class Railtie < Rails::Railtie
     config.before_configuration do
       missing_keys = []

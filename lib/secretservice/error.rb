@@ -1,4 +1,4 @@
-module Subrosa
+module SecretService
   class Error < StandardError; end
 
   class MissingSecrets < Error
