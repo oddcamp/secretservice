@@ -1,9 +1,10 @@
 ![Secret Service Rails Gem](http://www.kollegorna.se/images/secretservice.svg)
 
 # Secret Service
+[![Code Climate](https://codeclimate.com/github/kollegorna/secretservice/badges/gpa.svg)](https://codeclimate.com/github/kollegorna/secretservice)
 
 Undercover secret service agents that check if you have set all the
-required env variables in Rails .secrets
+required env variables in Rails secrets.yml
 
 ## Installation
 
