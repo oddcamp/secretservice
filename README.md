@@ -1,7 +1,7 @@
-![Gem Version](https://badge.fury.io/rb/secretservice.svg)](http://badge.fury.io/rb/secretservice)
 ![Secret Service Rails Gem](http://www.kollegorna.se/images/secretservice.svg)
 
 # Secret Service
+[![Gem Version](https://badge.fury.io/rb/secretservice.svg)](http://badge.fury.io/rb/secretservice)
 [![Code Climate](https://codeclimate.com/github/kollegorna/secretservice/badges/gpa.svg)](https://codeclimate.com/github/kollegorna/secretservice)
 
 Undercover secret service agents that check if you have set all the
