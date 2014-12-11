@@ -1,3 +1,4 @@
+![Gem Version](https://badge.fury.io/rb/secretservice.svg)](http://badge.fury.io/rb/secretservice)
 ![Secret Service Rails Gem](http://www.kollegorna.se/images/secretservice.svg)
 
 # Secret Service
