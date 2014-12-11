@@ -1,6 +1,8 @@
-# Secretservice
+![Secret Service Rails Gem](http://www.kollegorna.se/images/secretservice.svg)
 
-Undercover service service agents that check if you have set all the
+# Secret Service
+
+Undercover secret service agents that check if you have set all the
 required env variables in Rails .secrets
 
 ## Installation
@@ -20,9 +22,9 @@ Or install it yourself as:
     $ gem install secretservice
 
 ## Usage
-Once you include it in the Gemfile, secretservice starts it's undercover operation.
+Once you include it in the Gemfile, Secret Service starts it's undercover operation.
 
-If you violate the law then Secretservice will throw you messages like:
+If you violate the law then Secret Service will throw you messages like:
 
 ```
 bin/rails:  HEY! SecretService got you! (SecretService::MissingSecrets)
